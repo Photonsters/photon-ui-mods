@@ -2,7 +2,9 @@
 
 ### High contrast UI mod
 
-This mods enables high contrast clean and clear icons while also adding a hidden menu that allows users to network your photons via the bedded ethernet port on the CBD board.
+This mods enables high contrast clean and clear icons for any CBD board based printer with a 2.8" touchscreen, while also adding a hidden menu that allows users to network their printers via the embedded ethernet port on the machine board.
+
+---
 
 **DISCLAIMER:** 
 - This mod is made independently by the Photonsters Team and has no affiliations with Anycubic.

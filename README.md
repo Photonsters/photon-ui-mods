@@ -1,4 +1,4 @@
-# Photonsters Official UI Mods for the Photon Classic
+# Photonsters Official UI Mods for the Photon Classic and 2.8" CBD based printers
 
 ### High contrast UI mod
 

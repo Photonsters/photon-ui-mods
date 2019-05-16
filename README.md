@@ -7,6 +7,8 @@ This mod may also be deployed for all other Chitu-CBD mainboard based LCD printe
 
 **Note that the Photon-S cannot use this UI mod because it is based on a completely different mainboard.** 
 
+---
+
 ### High Contrast (HC) UI Mod
 
 The mod provides a clean and clear high contrast UI menu for the original Photon and other Chitu-CBD mainboard based printers with a 2.8" touchscreen. 
@@ -37,6 +39,8 @@ The mod package includes a copy of the default (original) UI. You may revert if 
 - Put the file in a USB stick, insert USB stick into your printer, and print the file. 
 - That's it. You've enabled the new UI mod (and depending on your firmware, the hidden network features).  
 
+---
+
 #### Configuring the Network (unlocked hidden menu)
 If your firmware version allows it, and you wish to use the network feature, continue with the following steps: 
 
@@ -44,7 +48,7 @@ If your firmware version allows it, and you wish to use the network feature, con
 - Switch the device to ethernet (Wireless/Ethernet button). 
 - Enable the network (ON/OFF button). 
 - Open the back access panel of your machine and connect a network cable to your switch or router. 
-- The machine should aquire an IP adress and show it on the touchscreen. 
+- The machine should acquire an IP address and show it on the touchscreen. 
 
 
 

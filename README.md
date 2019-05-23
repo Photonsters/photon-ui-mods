@@ -1,27 +1,27 @@
-# Photonsters Official UI Mod 
-This is the Photonsters official UI (User Interface) modification for the original Anycubic Photon (Classic) printer. 
+# Photonsters Official UI Modifications 
+These are the Photonsters official UI (User Interface) modifications for the original Anycubic Photon (Classic) printer. 
 
 The default UI menu is hard to read on the small 2.8" touchscreen, compounded by a poor choice of low contrast cyan blue on white lettering. 
 
-This modification addresses the default UI's primary deficiency. It replaces the default UI with a high contrast version to enhance legibility of the text and menu. It aims to provide a more legible and better user experience. 
+These modifications address the default UI's primary deficiency. They replace the default UI with a high contrast version to enhance legibility of the text and menu. The primary aim is to provide a more legible and better user experience. Future versions may include more optimisations, personalisation, and alternate colour schemes. 
 
-This mod may also be deployed for all other Chitu-CBD mainboard based LCD printers with a 2.8" touchscreen. 
+These UI mods may also be deployed for all other Chitu-CBD mainboard based LCD printers with a 2.8" touchscreen. 
 
-**Note that the Photon-S cannot use this UI mod because it is based on a completely different mainboard.** 
+**Note that the Photon-S cannot use these UI mods because it is based on a completely different mainboard.** 
 
 ---
 
 ### Photonsters High Contrast Net UI (PHCN-UI) 
 
-The PHCN-UI mod provides a clean and clear high contrast UI menu for the original Photon and other Chitu-CBD mainboard based printers with a 2.8" touchscreen. 
+This is the first of the official Photonsters UI modifications. The PHCN-UI mod provides a clean and clear high contrast UI menu for the original Photon (and other Chitu-CBD mainboard based printers with a 2.8" touchscreen). 
 
-All icons are now in black & white, with black backgrounds for the firmware generated cyan coloured text. 
+With this mod, icons are now in black & white, with black backgrounds for the firmware generated cyan coloured text. 
 
 *This mod may also enable a hidden menu (depending on firmware version) that will allow users to network their printers via the embedded ethernet port on the printer's mainboard.*
 
-The Photon UI is completely separate from the printer's firmware, installing this mod will make no changes to the firmware. The PHCN-UI is easily installed by just "printing" a single binary file. 
+The Photon UI layer is completely separate from the printer's firmware and configurations layers, installing this mod is safe and will make no changes to the printer's firmware or configurations. It is also entirely possible to revert to the original default UI at any time. 
 
-It is possible to revert to the original default UI at any time. The PHCN-UI mod package includes a copy of the default (original) UI. You may revert if you decide that this mod is not for you. 
+The PHCN-UI mod is easily installed by just "printing" two small files. 
 
 ---
 

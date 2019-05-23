@@ -39,7 +39,7 @@ The PHCN-UI mod is easily installed by just "printing" two small files.
 
 #### Installation
 
-- [Download the latest PHCN-UI mod release here](#). 
+- [Download the latest PHCN-UI mod release here](https://github.com/Photonsters/photon-ui-mods/blob/master/PHCN-UI/PHCNET_UI_2_8_190513.zip). 
 - Extract the files to a good tested USB stick. 
 - Insert USB stick into your printer. 
 - Via touchscreen, select the `PHCNET_UI_2_8_xxxxxx.logo` file and "print" the file. 

@@ -9,15 +9,15 @@ This mod may also be deployed for all other Chitu-CBD mainboard based LCD printe
 
 ---
 
-### High Contrast (HC) UI Mod
+### Photonsters High Contrast Net UI (PHCN-UI) 
 
-The mod provides a clean and clear high contrast UI menu for the original Photon and other Chitu-CBD mainboard based printers with a 2.8" touchscreen. 
+The PHCN-UI mod provides a clean and clear high contrast UI menu for the original Photon and other Chitu-CBD mainboard based printers with a 2.8" touchscreen. 
 
 All icons are now in black & white, with black backgrounds for the firmware generated cyan coloured text. 
 
-This mod also enables a hidden menu (depending on firmware version) that will allow users to network their printers via the embedded ethernet port on the machine mainboard.
+This mod may also enable a hidden menu (depending on firmware version) that will allow users to network their printers via the embedded ethernet port on the machine mainboard.
 
-The mod package includes a copy of the default (original) UI. You may revert if you decide that this mod is not for you. 
+The PHCN-UI mod package includes a copy of the default (original) UI. You may revert if you decide that this mod is not for you. 
 
 ---
 
@@ -35,7 +35,7 @@ The mod package includes a copy of the default (original) UI. You may revert if 
 
 #### Installation
 
-- Download the latest UI release here. 
+- Download the latest PHCN-UI mod release here. 
 - Put the file in a USB stick, insert USB stick into your printer, and print the file. 
 - That's it. You've enabled the new UI mod (and depending on your firmware, the hidden network features).  
 
@@ -44,11 +44,13 @@ The mod package includes a copy of the default (original) UI. You may revert if 
 #### Configuring the Network (unlocked hidden menu)
 If your firmware version allows it, and you wish to use the network feature, continue with the following steps: 
 
-- Access the network menu that was added by this UI mod. 
+- Via the touchscreen, access the network menu that was enabled by this PHCN-UI mod. 
 - Switch the device to ethernet (Wireless/Ethernet button). 
 - Enable the network (ON/OFF button). 
 - Open the back access panel of your machine and connect a network cable to your switch or router. 
 - The machine should acquire an IP address and show it on the touchscreen. 
+- Using Chitubox v1.4.0 (or newer), you may now select the IP address of your Photon and send print files over or start a remote print. 
+
 
 
 

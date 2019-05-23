@@ -1,7 +1,9 @@
 # Photonsters Official UI Mod 
-This is the official UI (User Interface) modification for the original Anycubic Photon Classic 3D printers. 
+This is the Photonsters official UI (User Interface) modification for the original Anycubic Photon (Classic) printer. 
 
-The default UI menu is hard to read on the small 2.8" touchscreen, compounded by a poor choice of cyan blue on white lettering. This UI mod aims to provide a more legible and better user experience. 
+The default UI menu is hard to read on the small 2.8" touchscreen, compounded by a poor choice of low contrast cyan blue on white lettering. 
+
+This modification addresses the default UI's primary deficiency. It replaces the default UI with a high contrast version to enhance legibility of the text and menu. It aims to provide a more legible and better user experience. 
 
 This mod may also be deployed for all other Chitu-CBD mainboard based LCD printers with a 2.8" touchscreen. 
 
@@ -15,9 +17,11 @@ The PHCN-UI mod provides a clean and clear high contrast UI menu for the origina
 
 All icons are now in black & white, with black backgrounds for the firmware generated cyan coloured text. 
 
-This mod may also enable a hidden menu (depending on firmware version) that will allow users to network their printers via the embedded ethernet port on the machine mainboard.
+*This mod may also enable a hidden menu (depending on firmware version) that will allow users to network their printers via the embedded ethernet port on the printer's mainboard.*
 
-The PHCN-UI mod package includes a copy of the default (original) UI. You may revert if you decide that this mod is not for you. 
+The Photon UI is completely separate from the printer's firmware, installing this mod will make no changes to the firmware. The PHCN-UI is easily installed by just "printing" a single binary file. 
+
+It is possible to revert to the original default UI at any time. The PHCN-UI mod package includes a copy of the default (original) UI. You may revert if you decide that this mod is not for you. 
 
 ---
 
@@ -35,9 +39,17 @@ The PHCN-UI mod package includes a copy of the default (original) UI. You may re
 
 #### Installation
 
-- Download the latest PHCN-UI mod release here. 
-- Put the file in a USB stick, insert USB stick into your printer, and print the file. 
+- [Download the latest PHCN-UI mod release here](#). 
+- Extract the files to a good tested USB stick. 
+- Insert USB stick into your printer. 
+- Via touchscreen, select the `PHCNET_UI_2_8_xxxxxx.logo` file and "print" the file. 
+- Wait for the beeps, press OK. 
+- Now select the `PHCNET_UI_2_8_xxxxxx.bin` file and "print" it. 
+- Wait for the beeps. Press OK. 
 - That's it. You've enabled the new UI mod (and depending on your firmware, the hidden network features).  
+
+Note:
+As the UI mod makes no changes to the firmware or configurations, you do not need to relevel or reset Z=0.
 
 ---
 

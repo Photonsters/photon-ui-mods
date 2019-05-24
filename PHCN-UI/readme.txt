@@ -1,6 +1,9 @@
 Photonsters High Contrast Net UI (PHCN-UI) 
 
+https://github.com/Photonsters/photon-ui-mods
+
 Installation instructions. 
+__________________________
 
 Extract the files to a good tested USB stick.
 
@@ -18,7 +21,10 @@ That's it. You've enabled the new UI mod (and depending on your firmware, the hi
 
 Note: As the UI mod makes no changes to the firmware or configurations, you do not need to relevel or reset Z=0.
 
+
+
 Configuring the Network (unlocked hidden menu)
+_______________________
 
 If your firmware version allows it, and you wish to use the network feature, continue with the following steps:
 

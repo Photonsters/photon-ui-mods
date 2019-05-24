@@ -62,7 +62,7 @@ If your firmware version allows it, and you wish to use the network feature, con
 - Open the back access panel of your machine and connect a network cable to your switch or router. 
 - The machine should acquire an IP address and show it on the touchscreen. 
 - Using Chitubox v1.4.0 (or newer), you may now select the IP address of your Photon and send print files over or start a remote print.
-- Info on Modding the Grill and connecting to the photon [here - FB Post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1651711838306785/])
+- Some Info on Modding the photon back grill and connecting to the photon [here - FB Post](https://www.facebook.com/groups/AnycubicPhoton/permalink/1651711838306785/])
 
 
 

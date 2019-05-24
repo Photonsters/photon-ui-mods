@@ -1,4 +1,5 @@
 # Photonsters Official UI Modifications 
+
 These are the Photonsters official UI (User Interface) modifications for the original Anycubic Photon (Classic) printer. 
 
 The default UI menu is hard to read on the small 2.8" touchscreen, compounded by a poor choice of low contrast cyan blue on white lettering. 
@@ -12,6 +13,8 @@ These UI mods may also be deployed for all other Chitu-CBD mainboard based LCD p
 ---
 
 ### Photonsters High Contrast Net UI (PHCN-UI) 
+
+*Confirmed working with the official AA enabled firmware v4.2.17 (thanks to Cristian Sava)*
 
 This is the first of the official Photonsters UI modifications. The PHCN-UI mod provides a clean and clear high contrast UI menu for the original Photon (and other Chitu-CBD mainboard based printers with a 2.8" touchscreen). 
 

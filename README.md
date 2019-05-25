@@ -8,7 +8,20 @@ These modifications address the default UI's primary deficiency. They replace th
 
 These UI mods may also be deployed for all other Chitu-CBD mainboard based LCD printers with a 2.8" touchscreen. 
 
-**Note that the Photon-S cannot use these UI mods because it is based on a completely different mainboard.** 
+**
+Note that the Photon-S cannot use these UI mods because it is based on a completely different mainboard.
+
+不適用於Photon-S！
+Photon-Sでは動作しません。
+Photon-S에서 작동하지 않습니다!
+ไม่ทำงานกับ Photon-S!
+Не работает для Photon-S!
+Ne fonctionne pas pour Photon-S!
+Funktioniert nicht für Photon-S!
+Non funziona per Photon-S!
+Não funciona para o Photon-S!
+Non opus Photon-S!
+** 
 
 ---
 

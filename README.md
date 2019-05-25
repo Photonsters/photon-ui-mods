@@ -25,8 +25,6 @@ Non opus Photon-S!
 
 ### Photonsters High Contrast Net UI (PHCN-UI) 
 
-*Confirmed working with the official AA enabled firmware v4.2.17 (thanks to Cristian Sava)*
-
 This is the first of the official Photonsters UI modifications. The PHCN-UI mod provides a clean and clear high contrast UI menu for the original Photon (and other Chitu-CBD mainboard based printers with a 2.8" touchscreen). 
 
 With this mod, icons are now in black & white, with black backgrounds for the firmware generated cyan coloured text. 
@@ -36,6 +34,8 @@ With this mod, icons are now in black & white, with black backgrounds for the fi
 The Photon UI layer is completely separate from the printer's firmware and configurations layers, installing this mod is safe and will make no changes to the printer's firmware or configurations. It is also entirely possible to revert to the original default UI at any time. 
 
 The PHCN-UI mod is easily installed by just "printing" two small files. 
+
+*Confirmed working with most firmwares including the official AA enabled firmware v4.2.17 (thanks to Cristian Sava)*
 
 ---
 

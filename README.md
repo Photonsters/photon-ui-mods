@@ -35,7 +35,7 @@ The Photon UI layer is completely separate from the printer's firmware and confi
 
 The PHCN-UI mod is easily installed by just "printing" two small files. 
 
-*Confirmed working with most firmwares including the official AA enabled firmware v4.2.17 (thanks to Cristian Sava)*
+*Confirmed working with most firmwares including the official AA enabled firmware v4.2.17*
 
 ---
 

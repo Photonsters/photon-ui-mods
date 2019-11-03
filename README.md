@@ -8,7 +8,7 @@ These modifications address the default UI's primary deficiency. They replace th
 
 These UI mods may also be deployed for all other Chitu-CBD mainboard based LCD printers with a 2.8" touchscreen. 
 
-**Note that the Photon-S cannot use these UI mods because it is based on a completely different mainboard.**
+**Note that the new Photon (aka Fauxton, sold from September 2019) and the Photon-S cannot use these UI mods because they are based on a completely different mainboard.**
 
 不適用於Photon-S！
 Photon-Sでは動作しません。

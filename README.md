@@ -8,7 +8,7 @@ These modifications address the default UI's primary deficiency. They replace th
 
 These UI mods may also be deployed for all other Chitu-CBD mainboard based LCD printers with a 2.8" touchscreen. 
 
-**Note that the new Photon (aka Fauxton, sold from September 2019) and the Photon-S cannot use these UI mods because they are based on a completely different mainboard.**
+**Note that the new Photon (aka Fauxton, sold from September 2019) and the Photon-S cannot use these UI mods because they are based on a completely different mainboard and lack the ethernet PHY chip.**
 
 不適用於Photon-S！
 Photon-Sでは動作しません。
@@ -35,7 +35,7 @@ The Photon UI layer is completely separate from the printer's firmware and confi
 
 The PHCN-UI mod is easily installed by just "printing" two small files. 
 
-*Confirmed working with most firmwares including the official AA enabled firmware v4.2.17*
+*Confirmed working with most firmwares including the official AA enabled firmware v4.2.17 and v4.2.18*
 
 ---
 
